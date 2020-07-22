@@ -1,0 +1,7 @@
+#adminPanel h1, #adminPanel h2, #adminPanel h3, #adminPanel h4, #adminPanel h5, #adminPanel h6 {
+	font-family: Lucida Sans Unicode,Verdana,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.content {
+	min-height: 649px;
+}
