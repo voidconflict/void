@@ -22,7 +22,7 @@
 
 		<title><?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?></title>
 
-		<link rel="icon" href="<?= $Wcms->asset('img/favicon.ico') ?>">
+		<link rel="icon" type="image/png" href="<?= $Wcms->asset('img/favicon.png') ?>">
 		<link rel="stylesheet" rel="preload" as="style" href="<?= $Wcms->asset('css/theme.css') ?>">
 		<link rel="stylesheet" rel="preload" as="style" href="<?= $Wcms->asset('css/style.css') ?>">
 		<?= $Wcms->css() ?>
